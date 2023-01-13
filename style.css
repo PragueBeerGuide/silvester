@@ -1,12 +1,12 @@
 body {
     background: white url("../bg.svg") no-repeat;
     background-size: cover;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    font-family: "Creepster", sans-serif;
+    font-size: 30px;
 }
 
 h1  {
-    font-size: 3rem;
+    font-size: 5rem;
 }
 
 .text {
